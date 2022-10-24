@@ -1,7 +1,7 @@
 ### Hi there, I'm Halis
 ---
-###  :eyes:I’m currently learning Golang thanks Property Finder Go Bootcamp at Patika
-### :sparkles:I’m interested in back-end technologies, data analysis and machine learning
+###  :eyes:I’m currently working TAV Construction as Data Management Engineer
+### :sparkles:I’m interested in data analysis and machine learning
 ---
 ### Reach out to me
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](hhttps://www.linkedin.com/in/halis-manaz-5946431a4/)
