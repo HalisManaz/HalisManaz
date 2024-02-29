@@ -1,7 +1,7 @@
 ### Hi there, I'm Halis
 ---
-###  :eyes:I’m currently working TAV Construction as Data Management Engineer
-### :sparkles:I’m interested in data analysis and machine learning
+###  :eyes:I’m currently working Luxoft-BMW as Python Developer
+### :sparkles:I’m interested in Python and data engineering
 ---
 ### Reach out to me
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](hhttps://www.linkedin.com/in/halis-manaz-5946431a4/)
