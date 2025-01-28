@@ -1,7 +1,7 @@
 ### Hi there, I'm Halis
 ---
 ###  :eyes:I’m currently working JustAppraised as Machine Learning Engineer/Python Developer
-### :sparkles:I’m interested in Python and data engineering
+### :sparkles:I’m interested in Python and LLM Models
 ---
 ### Reach out to me
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](hhttps://www.linkedin.com/in/halis-manaz-5946431a4/)
