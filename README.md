@@ -1,6 +1,6 @@
 ### Hi there, I'm Halis
 ---
-###  :eyes:I’m currently working Luxoft-BMW as Python Developer
+###  :eyes:I’m currently working JustAppraised as Machine Learning Engineer/Python Developer
 ### :sparkles:I’m interested in Python and data engineering
 ---
 ### Reach out to me
