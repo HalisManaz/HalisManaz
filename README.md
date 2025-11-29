@@ -1,6 +1,6 @@
 ### Hi there, I'm Halis
 ---
-###  :eyes:I’m currently working JustAppraised as Machine Learning Engineer/Python Developer
+###  :eyes:I was working JustAppraised as Python Developer/Data Engineer
 ### :sparkles:I’m interested in Python and LLM Models
 ---
 ### Reach out to me
